@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="steck">
+    <img src="./assets/html.png width="100"/>
+</div>
 
 <!--
 **ecomeel/ecomeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## Title 1
